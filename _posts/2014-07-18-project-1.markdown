@@ -2,7 +2,7 @@
 layout: default
 modal-id: 1
 date: 2015-04-01
-img: jacobs.png
+img: jacobs.jpg
 alt: image-alt
 position: Commander
 major: Political Science
