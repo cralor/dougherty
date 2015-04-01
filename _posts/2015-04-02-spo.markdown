@@ -1,7 +1,7 @@
 ---
 layout: default
 modal-id: 9
-date: 2015-04-01
+date: 2015-04-02
 title: Eric Murray
 img: murray.jpg
 alt: image-alt

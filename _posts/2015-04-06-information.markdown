@@ -1,7 +1,7 @@
 ---
 layout: default
 modal-id: 5
-date: 2015-04-05
+date: 2015-04-06
 title: Wayne "Cone" Starr
 img: starr.jpg
 alt: image-alt

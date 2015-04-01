@@ -1,7 +1,7 @@
 ---
 layout: default
 modal-id: 3
-date: 2015-04-07
+date: 2015-04-08
 title: Colin "Dz" Dziadaszek
 img: dz.jpg
 alt: image-alt

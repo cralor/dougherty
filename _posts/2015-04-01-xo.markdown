@@ -1,7 +1,7 @@
 ---
 layout: default
 modal-id: 10
-date: 2015-04-00
+date: 2015-04-01
 title: Amanda Lundstedt
 img: lundstedt.jpg
 alt: image-alt

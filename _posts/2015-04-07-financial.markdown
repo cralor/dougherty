@@ -1,7 +1,7 @@
 ---
 layout: default
 modal-id: 4
-date: 2015-04-06
+date: 2015-04-07
 title: Ben "Ironman" Kraines
 img: kraines.jpg
 alt: image-alt

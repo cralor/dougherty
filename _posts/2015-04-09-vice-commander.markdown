@@ -1,7 +1,7 @@
 ---
 layout: default
 modal-id: 2
-date: 2015-04-08
+date: 2015-04-09
 title: Eric "LB" Reese
 img: reese.jpg
 alt: image-alt
