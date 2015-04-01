@@ -8,8 +8,8 @@ alt: image-alt
 position: Director of Public Affairs
 major: Electrical Engineering
 description: Bryan "Asian Muscle" Mah brings a diverse set of experiences as the National Director of Financial Management, as well as the Squadron Information Management Officer and Candidate Training Staff member, giving him experience in most areas of the society. His depth of knowledge makes him the perfect person to publicize our many service events and the causes we advocate. He will work to communicate internally and externally, string to gain recognition for our hardworking Arnies by our fellow members and our Air Force Family partners. The blue and gold we wear will become synonymous with meaningful service under Bryan's leadership.
-goal1: Promote Arnold Air Society and Silver Wings through brand recognition.
-goal2: Develop a NATCON marketing plan with Area PAs.
-goal3: Improve Public Affairs teamwork and cross flow between Arnold Air Society and Silver Wings.
+goal1: (1) Promote Arnold Air Society and Silver Wings through brand recognition.
+goal2: (2) Develop a NATCON marketing plan with Area PAs.
+goal3: (3) Improve Public Affairs teamwork and cross flow between Arnold Air Society and Silver Wings.
 
 ---
