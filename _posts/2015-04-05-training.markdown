@@ -8,5 +8,8 @@ alt: image-alt
 position: Director of Training
 major: Computer Science
 description: Chris "Slumberman" Gullo takes a mission based approach to training. Chris has served as the Area 1 Webmaster twice, as well as served as a candidate class mentor providing vital training to future members who would go on to serve on the National Staff. Outside of ROTC and AAS, Chris is heavily involved in his professional interests in Computer Science, which can be exemplified through his internships with the Lawrence Livermore National Laboratory, HubSpot, and a scheduled internship with Microsoft. The dedication that Chris shows to his academic pursuits are a wonderful example of how Chris gives whatever he commits to his all.
+goal1: Engrain the Arnold Air Society and Silver Wings missions into the candidate training process.
+goal2: Champion a new position-based training program for any Arnold Air Society member to further prepare and develop.
+goal3: Enhance the candidate training idea database with updated and helpful information.
 
 ---

@@ -8,5 +8,8 @@ alt: image-alt
 position: Special Projects Officer
 major: Electrical Engineering
 description:
+goal1: Assist in Joint National Project sub-project execution.
+goal2: Aid squadrons with achieving service goals.
+goal3:
 
 ---

@@ -8,5 +8,8 @@ alt: image-alt
 position: Executive Officer
 major: Mechanical Engineering
 description:
+goal1: Improve the National and Area continuity systems overall.
+goal2: Create and manage Arnold Air Society HQ office hours.
+goal3:
 
 ---

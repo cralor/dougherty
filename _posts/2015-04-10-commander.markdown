@@ -8,5 +8,8 @@ alt: image-alt
 position: Commander
 major: Political Science
 description: Tom "Toaster" Jacobs is a skilled project manager and team leader with experience garnered through 7 years as a CAP cadet, earning the Eaker Award in the process. Last summer he spearheaded a 120 person operation and managed over $1M in assets while providing security and search and rescue forces for the Greater Rochester International Airshow. Tom also serves as the National Director of Operations directly following candidate class, during which he pioneered new serve opportunities with CAP, AFJROTC, and the AFA while ushering in an electronic hours reporting system via Digital Cheetah.
+goal1: Create and establish a USAFA Commander's Action Committee to better plan and manage an increase in Academy cadet involvement in AAS.
+goal2: Grow Silver Wings.
+goal3: Unify leadership with Silver Wings.
 
 ---

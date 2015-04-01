@@ -8,5 +8,8 @@ alt: image-alt
 position: Director of Support
 major: Applied Mathematics
 description: Gabe "Bobber" Piñeiro is the kind of guy everyone wants on their team. His commitment to excellence and willingness to voice the unpopular opinion makes him a key part of every organization he works with. As a member of the Squadron Support team, the Public Affairs Officer, as well as our CSCOP, he's has the widespread experience necessary to mentor squadrons needing development and evaluate awards to ensure our hardest workers are recognized by their fellow Arnies.
+goal1: Develop an Arnold Air Society and Silver Wings suggestion program.
+goal2: Refresh the Arnold Air Society continuous improvement program.
+goal3: Pilot a new squadron incentive program.
 
 ---
