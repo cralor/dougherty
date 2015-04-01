@@ -2,6 +2,7 @@
 layout: default
 modal-id: 1
 date: 2015-04-01
+title: Tom "Toaster" Jacobs
 img: jacobs.jpg
 alt: image-alt
 position: Commander
