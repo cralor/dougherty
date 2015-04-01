@@ -204,6 +204,11 @@ section.success {
     position: relative;
     margin: 0 auto;
     max-width: 400px;
+
+    border-radius: 100%;
+    -webkit-border-radius: 100%;
+    -moz-border-radius: 100%;
+    border: 4px solid gold;
 }
 
 #portfolio .portfolio-item .portfolio-link .caption {
