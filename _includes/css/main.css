@@ -197,6 +197,11 @@ section.success {
 #portfolio .portfolio-item {
     right: 0;
     margin: 0 0 15px;
+
+    border-radius: 100%;
+    -webkit-border-radius: 100%;
+    -moz-border-radius: 100%;
+    border: 4px solid gold;
 }
 
 #portfolio .portfolio-item .portfolio-link {
