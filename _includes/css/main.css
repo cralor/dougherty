@@ -222,6 +222,11 @@ section.success {
     -webkit-transition: all ease .5s;
     -moz-transition: all ease .5s;
     transition: all ease .5s;
+
+    border-radius: 100%;
+    -webkit-border-radius: 100%;
+    -moz-border-radius: 100%;
+    border: 4px solid gold;
 }
 
 #portfolio .portfolio-item .portfolio-link .caption:hover {
