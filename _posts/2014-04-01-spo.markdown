@@ -1,0 +1,12 @@
+---
+layout: default
+modal-id: 9
+date: 2015-04-01
+title: Eric Murray
+img: murray.jpg
+alt: image-alt
+position: Special Projects Officer
+major: Electrical Engineering
+description:
+
+---

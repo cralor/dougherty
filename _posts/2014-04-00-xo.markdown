@@ -1,0 +1,12 @@
+---
+layout: default
+modal-id: 10
+date: 2015-04-00
+title: Amanda Lundstedt
+img: lundstedt.jpg
+alt: image-alt
+position: Executive Officer
+major: Mechanical Engineering
+description:
+
+---
