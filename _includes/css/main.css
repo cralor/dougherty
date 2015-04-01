@@ -197,7 +197,9 @@ section.success {
 #portfolio .portfolio-item {
     right: 0;
     margin: 0 0 15px;
+}
 
+#portfolio .portfolio-item img {
     border-radius: 100%;
     -webkit-border-radius: 100%;
     -moz-border-radius: 100%;
@@ -409,10 +411,7 @@ footer .footer-below {
 .portfolio-modal .modal-content img {
     margin-bottom: 30px;
 
-    border-radius: 100%;
-    -webkit-border-radius: 100%;
-    -moz-border-radius: 100%;
-    border: 4px solid gold;
+    border: 4px solid black;
 }
 
 .portfolio-modal .modal-content .item-details {
