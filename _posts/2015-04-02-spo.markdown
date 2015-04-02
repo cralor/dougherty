@@ -8,8 +8,11 @@ alt: image-alt
 position: Special Projects Officer
 major: Electrical Engineering
 description:
-goal1: (1) Assist in Joint National Project sub-project execution.
-goal2: (2) Aid squadrons with achieving service goals.
+goal1title: Assist in JNP Sub-Project Execution
+goal1: The JNP is the our guiding light for service. The 2014/2015 Staff tested the idea of a small project related to the JNP. The broad design of a JNP allowed for IRUN4 to be at the center of a media campaign designed to encourage participation within the “Reaching Out” JNP and bolster JNP service hours. Eric will plan to  poll for suggestions after the JNP is chosen for a project within the JNP theme and execute it through the fall to encourage participation in meaningful service.
+goal2title: Aid Squadrons with Service Goal Setting
+goal2: Using data from the 2014/2015 Squadron Monthly Report, Eric and Colin  will help squadrons reporting low hours in the first months of our proposed term to set plans for improvement based on previous year’s performance. They will be a resource to squadrons who may have had many creative leaders graduate or leave the society. Through their roles they will connect our squadrons to service projects that fit their identity.
+goal3title:
 goal3:
 
 ---

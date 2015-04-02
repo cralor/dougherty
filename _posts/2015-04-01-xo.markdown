@@ -8,8 +8,11 @@ alt: image-alt
 position: Executive Officer
 major: Mechanical Engineering
 description:
-goal1: (1) Improve the National and Area continuity systems overall.
-goal2: (2) Create and manage Arnold Air Society HQ office hours.
+goal1title: Improve National and Area Continuity System
+goal1: By December, 11 new Area Staff’s have been elected and anticipate taking command nearly 5 months later. Amanda will work to ensure current Area Staff are training their replacements closely, reducing the learning curve upon assuming their roles after NATCON. Additionally, she will begin to indoctrinate the National Staff Candidates, who are self-identified by mid-January. They will be briefed regularly on the ongoing activities of the National Staff as they approach the most challenging time of the year, NATCON season. By the time a new National Staff is chosen, the winners will be well versed and sufficiently trained on their new duties, having shadowed under the sitting staff member and been aware of the demands of National Staff.
+goal2title: Create and manage AAS HQ Office Hours
+goal2:  Simply having an “Open Door” policy is not enough in a society spanning over 120 locations in multiple time zones. Having a set time each week that your National Staff will be accessible via google voice or google hangout, held concurrently to our weekly staff meeting, will ensure members at any level can get ahold of their National Staff to voice private concerns and provide specific feedback. 
+goal3title:
 goal3:
 
 ---

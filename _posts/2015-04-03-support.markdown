@@ -8,8 +8,11 @@ alt: image-alt
 position: Director of Support
 major: Applied Mathematics
 description: Gabe "Bobber" Piñeiro is the kind of guy everyone wants on their team. His commitment to excellence and willingness to voice the unpopular opinion makes him a key part of every organization he works with. As a member of the Squadron Support team, the Public Affairs Officer, as well as our CSCOP, he's has the widespread experience necessary to mentor squadrons needing development and evaluate awards to ensure our hardest workers are recognized by their fellow Arnies.
-goal1: (1) Develop an Arnold Air Society and Silver Wings suggestion program.
-goal2: (2) Refresh the Arnold Air Society continuous improvement program.
-goal3: (3) Pilot a new squadron incentive program.
+goal1title: Develop AAS/SW Suggestion Program
+goal1: In a society of several thousand members, it is only logical to seek feedback continuously so we may continue to grow and thrive. By modeling a suggestion page similar to the AFROTC Suggestion Program, we can seek new and fresh ideas from our members for the benefit of Arnold Air Society, and Silver Wings.
+goal2title: Refresh AAS Continuous Improvement Program
+goal2: Each year our society’s echelons are instructed to hold round table sessions as a hotwash of the year’s activities. Yet that feedback rarely makes its way to the national level for analysis and improvement. Gabe will work to solicit the results of each area’s round table discussions, and encourage area’s to hold round table’s that include Squadron Commander’s so that squadron feedback is included. At the end of this program, Gabe would seek to compile an annual hotwash for the members and catalog it on the national website so that future Arnies are not destine to make the mistakes of their predecessors.
+goal3title: Pilot new Squadron Incentive Program
+goal3: We have many Squadron’s that do truly outstanding things each year. By providing incentives for the best small, medium and large Squadron’s as well as the LBJ Cup recipient for most outstanding candidate training program, we will seek to reward our hardest workers. Meanwhile, we these cash incentives will increase competition for these core awards, ensuring best practices by top performers are seen at the national level and can then be included in continuity for future years.
 
 ---

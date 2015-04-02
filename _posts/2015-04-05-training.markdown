@@ -8,8 +8,11 @@ alt: image-alt
 position: Director of Training
 major: Computer Science
 description: Chris "Slumberman" Gullo takes a mission based approach to training. Chris has served as the Area 1 Webmaster twice, as well as served as a candidate class mentor providing vital training to future members who would go on to serve on the National Staff. Outside of ROTC and AAS, Chris is heavily involved in his professional interests in Computer Science, which can be exemplified through his internships with the Lawrence Livermore National Laboratory, HubSpot, and a scheduled internship with Microsoft. The dedication that Chris shows to his academic pursuits are a wonderful example of how Chris gives whatever he commits to his all.
-goal1: (1) Engrain the Arnold Air Society and Silver Wings missions into the candidate training process.
-goal2: (2) Champion a new position-based training program for any Arnold Air Society member to further prepare and develop.
-goal3: (3) Enhance the candidate training idea database with updated and helpful information.
+goal1title: Engrain AAS/SW Mission into Training Process
+goal1: We train our candidates to develop an 18 or so year old college student into a civic minded airpower advocate with the drive and attention to detail necessary to represent a 67 year old service organization at the highest levels. There should be no question that all training conducted throughout candidacy should in some way be tied to active membership and to the missions of both Arnold Air Society and Silver Wings. Chris will tailor the Candidate Training Manual to reflect this vision and will emphasize it to the training team members across the nation.
+goal2title: Champion new Position-Based Training Program
+goal2: Being a professional service organization we must extend our thinking about training to our active members. Assuming a position on the squadron or area staff, members should have access to  training from an experienced member of the society, who then present a nationally standardized curriculum. While receiving this training would not be required, it would be a clear sign to a squadron as they hear “I’m running for Commander and I received training at ARCON from Cadet Smith” that the candidate was serious about their potential role.
+goal3title: Enhance Candidate Training Idea Database
+goal3: Through the capabilities of Digital Cheetah we can share ideas for training our candidates. Chris will apply his National Information Management experience to help orchestrate the continued collection of best practices and ensure quality training suggestions are available for his team to benefit from.
 
 ---
